@@ -1,4 +1,5 @@
-Sign Up Page
+**Sign Up Page**
+
 Project Overview
 This project is a responsive and user-friendly Sign Up page built using React. It features a modern design and includes input fields for user details such as username, email, and password. The page incorporates form validation to ensure the data entered by users is accurate and complete.
 
